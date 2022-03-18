@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T12:11:27.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="3A8YssJ-OdRP0bu5EI23" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T12:17:45.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="MRjW5K7uZH_fa-Dz1_HE" version="16.6.4" type="github">
   <diagram id="xmaqt17tgNOwf9zprtV2" name="Page-1">
     <mxGraphModel dx="1203" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,16 +11,34 @@
           <mxGeometry x="140" y="310" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1z-eUvZMrxqd18fdSBQd-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="580" y="240" width="60" height="80" as="geometry" />
+          <mxGeometry x="580" y="230" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1z-eUvZMrxqd18fdSBQd-4" value="&lt;ul&gt;&lt;li&gt;Peform operations as code&lt;/li&gt;&lt;li&gt;Make frequent, small, reversible changes&lt;/li&gt;&lt;li&gt;Refine operations procedures frequently&lt;/li&gt;&lt;li&gt;Anticipate failure&lt;/li&gt;&lt;li&gt;Learn from all operations failures&lt;/li&gt;&lt;li&gt;(sounds a lot like Agile)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-4" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Implement a strong identity foundation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Enable traceability (log everything everywhere everytime)&lt;/li&gt;&lt;li&gt;Apply security at all layers&lt;/li&gt;&lt;li&gt;Automate security best practices (people get lazy and sloppy)&lt;/li&gt;&lt;li&gt;Protect data in transit and at rest and in use&lt;/li&gt;&lt;li&gt;Keep people away from data&lt;/li&gt;&lt;li&gt;Prepare for security events (drills)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="310" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1z-eUvZMrxqd18fdSBQd-5" value="&lt;div&gt;&lt;span&gt;Operational Excellence&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Basically Agile&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="210" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1z-eUvZMrxqd18fdSBQd-7" value="&lt;div&gt;&lt;span&gt;Security&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="515" y="210" width="200" height="30" as="geometry" />
+          <mxGeometry x="515" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="250" y="530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-9" value="&lt;ul&gt;&lt;li&gt;Automatically recover from failure (detect &amp;amp; resolve)&lt;/li&gt;&lt;li&gt;Test recovery procedures&lt;/li&gt;&lt;li&gt;Scale horizontally to increase aggregate workload availability&lt;/li&gt;&lt;li&gt;Stop guessing capacity&lt;/li&gt;&lt;li&gt;Manage change in automation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-10" value="&lt;div&gt;Reliability&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="575" y="530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-12" value="&lt;ul&gt;&lt;li&gt;Democratize advanced technologies&lt;/li&gt;&lt;li&gt;Go global in minutes&lt;/li&gt;&lt;li&gt;Use serverless architectures&lt;/li&gt;&lt;li&gt;Experiment more often&lt;/li&gt;&lt;li&gt;Consider mechanical sympathy&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="600" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-13" value="&lt;div&gt;Peformance Efficiency&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="500" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
