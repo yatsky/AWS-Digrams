@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T12:19:35.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="aGM76v3i0oD0ARud3rhz" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T12:21:49.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="4ruCEkvGOCYqeIgS0Sxx" version="16.6.4" type="github">
   <diagram id="xmaqt17tgNOwf9zprtV2" name="Page-1">
     <mxGraphModel dx="1203" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="1z-eUvZMrxqd18fdSBQd-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="250" y="770" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1z-eUvZMrxqd18fdSBQd-16" value="&lt;ul&gt;&lt;li&gt;Automatically recover from failure (detect &amp;amp; resolve)&lt;/li&gt;&lt;li&gt;Test recovery procedures&lt;/li&gt;&lt;li&gt;Scale horizontally to increase aggregate workload availability&lt;/li&gt;&lt;li&gt;Stop guessing capacity&lt;/li&gt;&lt;li&gt;Manage change in automation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-16" value="&lt;ul&gt;&lt;li&gt;Implement cloud financial management&lt;/li&gt;&lt;li&gt;Adopt a consumption model&lt;/li&gt;&lt;li&gt;Measure overall efficiency&lt;/li&gt;&lt;li&gt;Stop spending money on undifferentiated heavy lifting&lt;/li&gt;&lt;li&gt;Analyze and attribute expenditure&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="840" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1z-eUvZMrxqd18fdSBQd-17" value="&lt;div&gt;Cost Optimization&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -52,10 +52,10 @@
         <mxCell id="1z-eUvZMrxqd18fdSBQd-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="575" y="770" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1z-eUvZMrxqd18fdSBQd-19" value="&lt;ul&gt;&lt;li&gt;Democratize advanced technologies&lt;/li&gt;&lt;li&gt;Go global in minutes&lt;/li&gt;&lt;li&gt;Use serverless architectures&lt;/li&gt;&lt;li&gt;Experiment more often&lt;/li&gt;&lt;li&gt;Consider mechanical sympathy (to understand and care for how the machine you are working on itself works, to be able to get best performance out of the system.)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-19" value="&lt;ul&gt;&lt;li&gt;Understand your impact&lt;/li&gt;&lt;li&gt;Estabilish sustainability goals&lt;/li&gt;&lt;li&gt;Maximize utilization&lt;/li&gt;&lt;li&gt;Anticipate and adopt new, more efficient hardware and software offerings&lt;/li&gt;&lt;li&gt;Use managed services&lt;/li&gt;&lt;li&gt;Reduce the downstream impact of your cloud workloads&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="465" y="840" width="290" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="1z-eUvZMrxqd18fdSBQd-20" value="&lt;div&gt;Peformance Efficiency&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-20" value="&lt;div&gt;Sustainability&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="505" y="740" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
