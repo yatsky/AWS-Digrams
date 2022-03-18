@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T12:23:00.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="ClWNYuBIYBhqEVAE6zsb" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T12:24:30.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="RPewyuvnDuZxryObxGIE" version="16.6.4" type="github">
   <diagram id="xmaqt17tgNOwf9zprtV2" name="Page-1">
     <mxGraphModel dx="1203" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="1z-eUvZMrxqd18fdSBQd-20" value="&lt;div&gt;Sustainability&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="835" y="465" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1z-eUvZMrxqd18fdSBQd-22" value="These 3 pillars go hand in hand because if you can achieve great peformance efficiency then you&#39;re probably going to achieve cost optimization goals and use less energy. Therefore reduce your impact on the environment." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="475" width="180" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
